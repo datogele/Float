@@ -3,8 +3,9 @@ html , body {
 	height: 100%;
 }
 body{
-	padding:2%;
+	padding:3% 2%;
 	border: 1px solid black;
+	padding-top: 0;
 
 }
 
@@ -79,5 +80,12 @@ body{
 	margin-top: 60px;
 }
 .box-1pa{
+	font-family: 'Roboto', sans-serif;
+}
+.text{
+	text-align: center;
+	margin-top: 3px;
+	margin-bottom: 4px;
+	font-size: 18px;
 	font-family: 'Roboto', sans-serif;
 }
